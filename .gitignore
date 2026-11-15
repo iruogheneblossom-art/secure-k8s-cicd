@@ -3,8 +3,6 @@ __pycache__/
 __MACOSX/
 *.py[cod]
 .venv/
-.env
-.env.*
 !.env.example
 build/
 .coverage
@@ -14,3 +12,5 @@ build/
 *kubeconfig*
 # The paper is a local reference; publishing rights are separate from code.
 *.pdf
+config.bat
+node_modules
